@@ -3,7 +3,7 @@ from tkinter import messagebox, simpledialog, ttk
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-# File paths for data storage
+
 PRODUCTS_FILE = 'products.txt'
 USERS_FILE = 'users.txt'
 ORDERS_FILE = 'orders.txt'
